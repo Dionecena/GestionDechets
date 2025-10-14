@@ -1,0 +1,43 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Database
+*.db
+
+# Others
+*.swp
+*.swo
