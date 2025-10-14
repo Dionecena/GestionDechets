@@ -16,7 +16,7 @@ public class DatabaseService {
     private static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
     private static final String DB_URL = "jdbc:mysql://localhost:3306/mabase1";
     private static final String USER = "root";
-    private static final String PASSWORD = "mD23122003.";
+    private static final String PASSWORD = "";
 
     // Instance unique de connexion (pattern Singleton)
     private static Connection connection = null;
