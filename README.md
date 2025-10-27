@@ -1,4 +1,4 @@
-Projet GestionDechets
+Projet GestionDechets !
 
 Dépôt Java (NetBeans) pour la gestion des collectes et itinéraires et utilisateurs avec systeme de recompense :)
 
